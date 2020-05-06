@@ -25,7 +25,7 @@ Therefore, the distance between $P$ and the given plane is $\frac{2}{\sqrt{21}}$
 #### Problem \#31 \
 \begin{align*}
 f(x,y) &= \sin(y^2 - xy) \\
-\nabla\vec{f}(x,y) &= -y\cos(y^2 - xy)\hat{i} + (2y - x)cos(y^2 - xy)\hat{j}
+\nabla\vec{f}(x,y) &= -y\cos(y^2 - xy)\hat{i} + (2y - x)\cos(y^2 - xy)\hat{j}
 \end{align*}
 
 #### Problem \#40 \
@@ -44,7 +44,7 @@ f_{\hat{u}}(2, -1) &= \frac{15}{\sqrt{2}}
 #### Problem \#48 \
 One approach to finding a vector normal to a surface such as $z^2 - 2xyz = 
 x^2 + y^2$ at a given point $(1, 2, -1)$ is to rewrite the surface as if it was
-the level curve of a four dimensional function. Let $f(x,y,z)$ be a function
+the level curve of another function. Let $f(x,y,z)$ be a function
 defined as follows
 $$ f(x,y,z) = z^2 - 2xyz - x^2 - y^2 $$
 Now, since the gradient of a function is always perpendicular to its level
